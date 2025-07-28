@@ -12,7 +12,7 @@ La aplicación facilita el registro de nombres y realiza un sorteo aleatorio ent
 # Funcionalidades
 
 - **Agregar nombres:**  
-  Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a la lista visible haciendo clic en el botón **"Adicionar"**.
+  Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a la lista visible haciendo clic en el botón **"Añadir"**.
 
 - **Validar entrada:**  
   Si el campo de texto está vacío, el programa muestra una alerta pidiendo un nombre válido.
@@ -37,8 +37,6 @@ La aplicación facilita el registro de nombres y realiza un sorteo aleatorio ent
     git clone (https://github.com/Tonioord/ONEChallenge-Amigo-secreto.git)
     ```
 2. Abre el archivo `index.html` en tu navegador web.
-
-*(O adapta estas instrucciones según el entorno y tecnologías que uses.)*
 
 # ¡Diviértete organizando tu sorteo de amigo secreto! 🎉
 

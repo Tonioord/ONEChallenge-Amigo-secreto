@@ -29,7 +29,7 @@ La aplicación facilita el registro de nombres y realiza un sorteo aleatorio ent
 # ¿Cómo usar la aplicación?
 
 1. Escribe el nombre de un amigo en el campo de texto.
-2. Haz clic en **"Adicionar"** para agregarlo a la lista.
+2. Haz clic en **"Añadir"** para agregarlo a la lista.
 3. Repite el proceso para todos los participantes.
 4. Cuando la lista esté completa, haz clic en **"Sortear Amigo"** para realizar el sorteo y ver el nombre del amigo secreto elegido al azar.
 

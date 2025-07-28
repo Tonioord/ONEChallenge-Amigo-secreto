@@ -23,6 +23,9 @@ La aplicación facilita el registro de nombres y realiza un sorteo aleatorio ent
 - **Sorteo aleatorio:**  
   Al hacer clic en el botón **"Sortear Amigo"**, la aplicación selecciona aleatoriamente uno de los nombres de la lista y lo muestra como el amigo secreto.
 
+  - **Reiniciar Lista:**
+  Volver a cargar la página reinicia la lista de los amigos a sortear. **Usar F5, para mayor velocidad**  
+
 # ¿Cómo usar la aplicación?
 
 1. Escribe el nombre de un amigo en el campo de texto.
